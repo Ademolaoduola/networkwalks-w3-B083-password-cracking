@@ -8,7 +8,7 @@ W3-PM1 | W3-PM2 | CYBERSECURITY | NETWORKWALKS
 |---|---|
 | Pentester Name | Ademola Oduola (Cybersecurity Professional) |
 | Program / Batch | B083 - Networkwalks |
-| Date | 09/24/2026 |
+| Date | 09/25/2026 |
 | Modules completed | W3-PM1 (Password Cracking with JTR)<br>W3-PM2 (Password Cracking with Networkwalks Tools) |
 | Target File | My Locked PDF1.pdf |
 | Permission secured from client? | Yes — file provided for lab exercise |
