@@ -130,6 +130,20 @@ The Networkwalks online tools produced the same cracked password as the local Jo
 | Platform | Windows / Linux / Mac | Any device with a browser |
 | Ease of use for beginners | Moderate (GUI simplifies this) | High (fully guided, no setup) |
 | Data privacy | Hash stays local | Hash uploaded to third-party service |
+## Evidence Collected
+<img width="813" height="553" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/6a3aaa05-d08f-4caa-a123-180638dce874" />
+<img width="598" height="542" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/37d6215e-9636-457f-9b40-0488eecbe723" />
+<img width="1283" height="646" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/a8f3efbb-e247-4662-81e8-4769b0722220" />
+<img width="1271" height="669" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/a6fa3093-76c3-4160-8072-7fb125b4253c" />
+<img width="1309" height="650" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/d2449f1a-b46d-42ec-880d-dc79f2e821e8" />
+<img width="814" height="577" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/a6dcddb9-0274-4186-aca0-f8ee32560f25" />
+<img width="1274" height="599" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/d2f51bc9-f3da-4159-aa6f-7fbdaddbc167" />
+<img width="1298" height="599" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/983cd9c1-8fc6-4d37-b103-5e8eba9b6577" />
+
+
+
+
+
 
 ## 8. Key Takeaways
 
